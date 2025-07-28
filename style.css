@@ -1,3 +1,4 @@
+/*
 @font-face {
   font-family: 'Neue Montreal';
   src: url('./fonts/NeueMontreal-Regular.otf') format('opentype');
@@ -227,4 +228,17 @@ footer, .copyright {
 }
 footer a:hover {
   text-decoration: underline;
+}
+
+*/
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20vh;
+}
+
+h1 {
+  margin-bottom: 0.5em;
 }
